@@ -1,0 +1,25 @@
+Base faite par T'choupi
+
+
+T'choupi Dev : https://discord.gg/ddnJKusNSx
+
+
+T'choupi-French:
+
+- Police Nationale / BAC 
+- Gendarmerie  / GIGN
+- Samu 
+- Amazon
+- 19 Jobs WL 
+- 3 Jobs Non-WL
+- Illégal basique complèt
+- 3 Quartier
+- Véhicules Import
+
+
+_____________________
+
+
+Enlever la map personalisé : [Serveur]>[TextureFR] >> minimap
+Changer le Tchoupi-French sur les menus :[Serveur]> [Requis] > esx_menu_default > html > js >> app.js
+Changer le Tchoupi-Frenchsur le Menu F5:[Serveur] > [Hud-F5-Menu] > PersoMenuF5 >> config.lua
